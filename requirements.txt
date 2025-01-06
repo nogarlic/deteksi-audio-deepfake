@@ -1,8 +1,6 @@
-pip
-setuptools
-distutils
-numpy==1.23.5
-pandas==1.5.3
-torch==2.0.0
-torchaudio==2.0.1
-nnAudio==0.3.2
+streamlit
+torch
+torchaudio
+numpy
+pandas
+nnAudio
