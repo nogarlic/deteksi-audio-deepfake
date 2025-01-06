@@ -4,3 +4,4 @@ torchaudio
 numpy
 pandas
 nnAudio
+PySoundFile
