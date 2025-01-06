@@ -1,0 +1,6 @@
+numpy==1.23.5
+pandas==1.5.3
+streamlit==1.25.0
+torch==2.0.0
+torchaudio==2.0.1
+nnAudio==0.3.2
